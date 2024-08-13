@@ -1,8 +1,8 @@
 {
-  "greeting": "Hi Dear",
-  "name": "Apu",
+  "greeting": "Hi",
+  "name": "Gungun",
   "greetingText": "I really like your name btw!",
-  "wishText": "Warm Regards from Pleetu! ;)",
+  "wishText": "Warm Regards from Preeto! ;)",
   "imagePath": "img/apu.jpeg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "wishHeading": "Tum jeeyo hazaro saal, saal ke din ho 50,000 !!! HAPI BUDDAY GUNNU.",
+  "outroText": "",
+  "replayText": "Watch again? Kiss me! Your next hint is: ",
   "outroSmiley": ":)"
 }
